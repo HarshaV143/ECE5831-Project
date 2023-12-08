@@ -16,6 +16,12 @@ This project involves the application of a Simple Generative Adversarial Network
 
 ## Dataset Access Instructions
 
+### Code
+GitHub Repository: [Simple GAN Project on GitHub](https://github.com/HarshaV143/ECE5831-Project)
+
+### Dataset
+Google Drive Dataset: [MNIST and California Housing Dataset on Google Drive](https://drive.google.com/drive/folders/1Yc6WhJlj-VMALpR5fgQKEfXtJFXapsX3?usp=sharing)
+
 ### MNIST Dataset
 - **Description**: A large database of handwritten digits used for training image processing systems.
 - **Access Instructions**:
