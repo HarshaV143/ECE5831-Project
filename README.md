@@ -22,6 +22,9 @@ GitHub Repository: [Simple GAN Project on GitHub](https://github.com/HarshaV143/
 ### Dataset
 Google Drive Dataset: [MNIST and California Housing Dataset on Google Drive](https://drive.google.com/drive/folders/1Yc6WhJlj-VMALpR5fgQKEfXtJFXapsX3?usp=sharing)
 
+### Presentation Link:
+Youtube Link: https://youtu.be/OjQg7JHr-j0
+
 ### MNIST Dataset
 - **Description**: A large database of handwritten digits used for training image processing systems.
 - **Access Instructions**:
